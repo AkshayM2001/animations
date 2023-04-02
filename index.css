@@ -20,7 +20,7 @@ h1{
     
 }
 #cartoon{
-    background-image: url(img/bgc.jpg);
+    background-image: url(bgc.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
 
@@ -28,3 +28,6 @@ h1{
 /* #late{
     text-decoration-color: chocolate;
 } */
+#nopee{
+    color:white;
+}
